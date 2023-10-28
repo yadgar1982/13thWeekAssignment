@@ -1,0 +1,11 @@
+.nav{
+    background: linear-gradient(0.25turn, #93deec, #1b5f5c, #93deec);
+    height:50px;
+    width: flex;
+    color:rgb(11, 52, 77);
+    font-size:15px;
+    padding-top: 20px;
+    padding-left: 5px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size:17px;
+}
